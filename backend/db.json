@@ -1,0 +1,140 @@
+{
+  "users": [
+    {
+      "id": "3ae7",
+      "username": "Maheshwar",
+      "email": "admin1@gmail.com",
+      "role": "admin",
+      "password": "1234"
+    },
+    {
+      "id": "dcc6",
+      "username": "Maheshwar",
+      "email": "mahigowda416@gmail.com",
+      "role": "user",
+      "password": "1234"
+    }
+  ],
+  "courses": [
+    {
+      "cId": 101,
+      "cname": "Java Full Stack",
+      "course_image": "https://th.bing.com/th/id/OIP.bbYw9a3fwTgtqUn9c0bU9wHaEc?w=283&h=180&c=7&r=0&o=5&cb=ucfimg2&dpr=1.5&pid=1.7&ucfimg=1",
+      "course_fees": 35000,
+      "course_duration": "6 Months",
+      "course_author": "Pavan Jain",
+      "id": "3f6d"
+    },
+    {
+      "cId": 102,
+      "cname": "MERN Stack",
+      "course_image": "https://tse1.mm.bing.net/th/id/OIP.mvU7lKZc610QkoTWGZaCeQHaEK?cb=ucfimg2&ucfimg=1&w=1600&h=900&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "course_fees": 30000,
+      "course_duration": "5 Months",
+      "course_author": "Akshay",
+      "id": "ea72"
+    },
+    {
+      "cId": 103,
+      "cname": "Python Full Stack",
+      "course_image": "https://tse3.mm.bing.net/th/id/OIP.MJAJioczQDkNkbFaCzRnGgAAAA?cb=ucfimg2&ucfimg=1&w=470&h=394&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "course_fees": 25000,
+      "course_duration": "6 Months",
+      "course_author": "Suthir",
+      "id": "f7d2"
+    },
+    {
+      "id": "3f91",
+      "cId": "1d741938-88e9-45a8-968f-ae3be47556e1",
+      "cname": "DevOps",
+      "course_image": "https://th.bing.com/th/id/OIP._H98zc2PoqCGUVR4GeqzrQHaEe?w=258&h=180&c=7&r=0&o=5&cb=ucfimg2&dpr=1.5&pid=1.7&ucfimg=1",
+      "course_fees": 40000,
+      "course_duration": "6",
+      "course_author": "Harish"
+    },
+    {
+      "id": "43be",
+      "cId": "2e1215ae-ebab-4a01-a6ee-8d2bd1d8a0ff",
+      "course": {
+        "cname": "DevOps",
+        "course_image": "https://th.bing.com/th/id/OIP._H98zc2PoqCGUVR4GeqzrQHaEe?w=258&h=180&c=7&r=0&o=5&cb=ucfimg2&dpr=1.5&pid=1.7&ucfimg=1",
+        "course_fees": 40000,
+        "course_duration": "6",
+        "course_author": "Harish"
+      },
+      "cname": "DevOps Course ABCD",
+      "course_image": "https://th.bing.com/th/id/OIP._H98zc2PoqCGUVR4GeqzrQHaEe?w=258&h=180&c=7&r=0&o=5&cb=ucfimg2&dpr=1.5&pid=1.7&ucfimg=1",
+      "course_fees": "10000",
+      "course_duration": "2 weeks",
+      "course_author": "Mahesh",
+      "course_fee": "300"
+    },
+    {
+      "id": "f884",
+      "cId": "734e9bf3-9e8e-4b0c-95a9-0f32e1be7bf6",
+      "course": {
+        "cname": "DevOps",
+        "course_image": "https://th.bing.com/th/id/OIP._H98zc2PoqCGUVR4GeqzrQHaEe?w=258&h=180&c=7&r=0&o=5&cb=ucfimg2&dpr=1.5&pid=1.7&ucfimg=1",
+        "course_fees": 40000,
+        "course_duration": "6",
+        "course_author": "Harish"
+      }
+    }
+  ],
+  "cart": [
+    {
+      "id": "43be",
+      "cId": "2e1215ae-ebab-4a01-a6ee-8d2bd1d8a0ff",
+      "course": {
+        "cname": "DevOps",
+        "course_image": "https://th.bing.com/th/id/OIP._H98zc2PoqCGUVR4GeqzrQHaEe?w=258&h=180&c=7&r=0&o=5&cb=ucfimg2&dpr=1.5&pid=1.7&ucfimg=1",
+        "course_fees": 40000,
+        "course_duration": "6",
+        "course_author": "Harish"
+      },
+      "cname": "DevOps Course ABCD",
+      "course_image": "https://th.bing.com/th/id/OIP._H98zc2PoqCGUVR4GeqzrQHaEe?w=258&h=180&c=7&r=0&o=5&cb=ucfimg2&dpr=1.5&pid=1.7&ucfimg=1",
+      "course_fees": "10000",
+      "course_duration": "2 weeks",
+      "course_author": "Mahesh",
+      "course_fee": "300",
+      "userId": "dcc6"
+    },
+    {
+      "id": "43be",
+      "cId": "2e1215ae-ebab-4a01-a6ee-8d2bd1d8a0ff",
+      "course": {
+        "cname": "DevOps",
+        "course_image": "https://th.bing.com/th/id/OIP._H98zc2PoqCGUVR4GeqzrQHaEe?w=258&h=180&c=7&r=0&o=5&cb=ucfimg2&dpr=1.5&pid=1.7&ucfimg=1",
+        "course_fees": 40000,
+        "course_duration": "6",
+        "course_author": "Harish"
+      },
+      "cname": "DevOps Course ABCD",
+      "course_image": "https://th.bing.com/th/id/OIP._H98zc2PoqCGUVR4GeqzrQHaEe?w=258&h=180&c=7&r=0&o=5&cb=ucfimg2&dpr=1.5&pid=1.7&ucfimg=1",
+      "course_fees": "10000",
+      "course_duration": "2 weeks",
+      "course_author": "Mahesh",
+      "course_fee": "300",
+      "userId": "dcc6"
+    },
+    {
+      "id": "43be",
+      "cId": "2e1215ae-ebab-4a01-a6ee-8d2bd1d8a0ff",
+      "course": {
+        "cname": "DevOps",
+        "course_image": "https://th.bing.com/th/id/OIP._H98zc2PoqCGUVR4GeqzrQHaEe?w=258&h=180&c=7&r=0&o=5&cb=ucfimg2&dpr=1.5&pid=1.7&ucfimg=1",
+        "course_fees": 40000,
+        "course_duration": "6",
+        "course_author": "Harish"
+      },
+      "cname": "DevOps Course ABCD",
+      "course_image": "https://th.bing.com/th/id/OIP._H98zc2PoqCGUVR4GeqzrQHaEe?w=258&h=180&c=7&r=0&o=5&cb=ucfimg2&dpr=1.5&pid=1.7&ucfimg=1",
+      "course_fees": "10000",
+      "course_duration": "2 weeks",
+      "course_author": "Mahesh",
+      "course_fee": "300",
+      "userId": "dcc6"
+    }
+  ]
+}
